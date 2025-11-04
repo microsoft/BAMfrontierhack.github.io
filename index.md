@@ -38,3 +38,7 @@ These tools can support you during the lab. They’re not required, but can help
 
 - A clear problem statement  
 - An AI-driven solution idea
+
+---
+
+#### Ready to start? [Begin with Step 2: Define the Challenge](Instructions/Labs/2-define-the-challenge)
