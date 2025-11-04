@@ -1,0 +1,34 @@
+# GitHub Pages Configuration
+title: "WWL Frontier Copilot Lab"
+description: "Single-User Edition Lab for exploring AI solutions"
+
+# Use the default Jekyll theme for GitHub Pages
+theme: minima
+
+# Enable markdown processing
+markdown: kramdown
+highlighter: rouge
+
+# Include these files
+include:
+  - _pages
+  - Instructions
+
+# Exclude unnecessary files
+exclude:
+  - README.md
+  - LICENSE
+  - .git
+  - .gitignore
+
+# Plugins for GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation structure
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "Lab Steps"
+    link: "/#your-hack-event-journey"
