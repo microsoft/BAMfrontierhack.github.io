@@ -2,8 +2,6 @@
 title: "Step 2: Define the Challenge"
 ---
 
-[🏠 Home](../../)
-
 ## Step 2: Define the Challenge
 
 Identify and decide on one challenge to focus on for the rest of this lab.  It could be something simple, like scheduling meetings, or something complex—processes tied to multiple systems, sensitive data or compliance requirements.  The goal is to spark thought about what’s working, what’s not and where AI might play a role.
@@ -64,7 +62,5 @@ Choose one challenge or opportunity to carry forward.  Capture it clearly and si
 In your template, fill in the **Problem or opportunity statement** section.  Summarize the single challenge or opportunity you identified as a clear, concise statement.
 
 ---
-
-[🏠 Home](../../)
 
 #### Next Step: [Break Down the Problem](3-break-down-the-problem)

@@ -2,8 +2,6 @@
 title: "Step 3: Break Down the Problem"
 ---
 
-[🏠 Home](../../)
-
 ## Step 3: Break Down the Problem
 
 Now that you’ve defined a problem statement, dig deeper.  Map out the pain points, inefficiencies and root causes that make this problem worth solving.
